@@ -344,15 +344,15 @@ mridul.say_hi()
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
+<div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=heymridul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=fff" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heymridul&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymridul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=fff&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=heymridul&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<!-- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=heymridul&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" /> -->
 
-</div> -->
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heymridul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -364,7 +364,8 @@ mridul.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heymridul&theme=tokyo-night&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heymridul&theme=tokyo-night&hide_border=true" /> -->
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=heymridul&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 
