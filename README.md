@@ -450,13 +450,32 @@ hackathon_journey:
 
 <div align="center">
 
-## 💭 AI Wisdom
+## 💭 Builder's Motto
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+*"Move fast and break things. Unless you are breaking stuff, you are not moving fast enough."* 
+— **Mark Zuckerberg**
+
+</div>
+
+## 💭 Philosophy
+
+<div align="center">
+
+*"The goal is not to build AI that can do everything humans can do,*  
+*but to build AI that helps humans do everything they dream of doing."*
+
+*"Every model I train, every bug I fix, every line I write —*  
+*is a step toward making the world a little more intelligent."*
+
+— **Mridul Bhardwaj**
+
+</div>
 
 ---
 
-### ⚡ Quick Facts
+### ⚡ Some Facts About Me
 
 ```python
 facts = {
