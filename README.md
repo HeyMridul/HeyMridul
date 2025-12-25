@@ -187,7 +187,7 @@ mridul.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [AgriSense: Smart Agriculture SAAS](https://github.com/heymridul)
+### 🌾 [Smart Agriculture SAAS Ecosystem](https://github.com/heymridul)
 
 <img src="https://img.shields.io/badge/🥇-1st_Prize_Winner-FFD700?style=for-the-badge" />
 
