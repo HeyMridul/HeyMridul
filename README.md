@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=heymridul&label=Profile%20Views&color=blueviolet&style=flat" alt="profile-views" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Solutions;15%2B+Hackathons+%7C+4+Major+Wins;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Transforming+Ideas+into+AI-Powered+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Solutions;15%2B+Hackathons+%7C+5+Major+Wins;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Transforming+Ideas+into+AI-Powered+Reality)](https://git.io/typing-svg)
 
 </div>
 
