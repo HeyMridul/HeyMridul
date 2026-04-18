@@ -35,8 +35,8 @@ class MridulBhardwaj:
             "Sustainable AI Solutions"
         ]
         self.achievements = {
-            "hackathons": "12+",
-            "wins": 4,
+            "hackathons": "21+",
+            "wins": 11,
             "notable": "Best of the Rest (Climate AI Challenge 2025)"
         }
     
@@ -49,7 +49,7 @@ mridul.say_hi()
 
 <br>
 
-- 🏆 **4x Hackathon Winner** | Climate Change AI Challenge, AI in the OutBack, AIoThon
+- 🏆 **11x Hackathon Winner** | Climate Change AI Challenge, AI in the OutBack, AIoThon
 - 🧠 Specializing in **Deep Learning, Computer Vision & NLP**
 - 🌱 Built **Production-Grade AI Solutions** deployed on cloud
 - 🎯 **Placement Coordinator** & AI Workshop Leader at COER University
