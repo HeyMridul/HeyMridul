@@ -369,10 +369,6 @@ professional_experience:
   - role: "Web Developer"
     company: "mCurio (formerly Perplexed)"
     duration: "July 2023 - Sep 2023"
-    achievements:
-      - "Developed company website frontend"
-      - "Technologies: HTML, CSS, JavaScript"
-      - "Participated in weekly team meetings"
 
 professional_experience:
   - role: "Software Developer"
@@ -383,10 +379,6 @@ professional_experience:
   - role: "Software Developer"
     company: "Vichon Ltd"
     duration: "June 2025 - Feb 2026"
-    achievements:
-      - "Developed company website frontend"
-      - "Technologies: HTML, CSS, JavaScript"
-      - "Participated in weekly team meetings"
 
 leadership_roles:
   - position: "Placement Coordinator"
