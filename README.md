@@ -2,11 +2,11 @@
 
 # 👋 Hey there, I'm Mridul Bhardwaj
 
-### 🤖 AI/ML Engineer | Deep Learning Specialist | Hackathon Champion
+### 🤖 Software Developer | Workflow Automator | Exploring NLP | Hackathon Champion
 
 <img src="https://komarev.com/ghpvc/?username=heymridul&label=Profile%20Views&color=blueviolet&style=flat" alt="profile-views" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Solutions;22%2B+Hackathons+%7C+11+Major+Wins;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Transforming+Ideas+into+AI-Powered+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Intelligent+AI+Solutions;22%2B+Hackathons+%7C+12+Major+Wins;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Transforming+Ideas+into+AI-Powered+Reality)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 class MridulBhardwaj:
     def __init__(self):
         self.location = "Haridwar, Uttarakhand 🇮🇳"
-        self.role = "AI/ML Engineer"
+        self.role = "Software Developer"
         self.education = "BTech CS @ COER University"
         self.specialization = [
             "Deep Learning",
@@ -35,8 +35,8 @@ class MridulBhardwaj:
             "Sustainable AI Solutions"
         ]
         self.achievements = {
-            "hackathons": "21+",
-            "wins": 11,
+            "hackathons": "22+",
+            "wins": 12,
             "notable": "Best of the Rest (Climate AI Challenge 2025)"
         }
     
@@ -49,8 +49,8 @@ mridul.say_hi()
 
 <br>
 
-- 🏆 **11x Hackathon Winner** | Climate Change AI Challenge, AI in the OutBack, AIoThon
-- 🧠 Specializing in **Deep Learning, Computer Vision & NLP**
+- 🏆 **12x Hackathon Winner** | Climate Change AI Challenge, AI in the OutBack, AIoThon
+- 🧠 Specializing in **Automation, Gen AI & NLP**
 - 🌱 Built **Production-Grade AI Solutions** deployed on cloud
 - 🎯 **Placement Coordinator** & AI Workshop Leader at COER University
 - 💡 Passionate about **Sustainable AI** & solving real-world problems
@@ -111,10 +111,10 @@ mridul.say_hi()
 <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" /><br>
 <b>React</b>
 </td>
-<td align="center" width="16.66%">
+<!-- <td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" /><br>
 <b>Angular</b>
-</td>
+</td> -->
 <td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" /><br>
 <b>Flask</b>
@@ -136,7 +136,7 @@ mridul.say_hi()
 
 ### ⚙️ Languages, Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,rust,git,github,gcp,docker,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,git,github,gcp,docker,vscode,postman" />
 
 </div>
 
@@ -377,14 +377,14 @@ mridul.say_hi()
 
 | 🎯 Goal | 📊 Status | 🔥 Priority |
 |---------|-----------|-------------|
-| 🚀 Deploy 5 Production AI Apps | 🟢 3/5 Complete | High |
-| 🏆 Win 5+ Major Hackathons | 🟡 4/5 Complete | High |
-| 📚 Publish AI Research Paper | 🔴 In Progress | Medium |
+| 🚀 Deploy 5 Production AI Apps | 🟢 1/5 Complete | High |
+| 🏆 Win 20+ Major Hackathons | 🟡 12/20 Complete | High |
+| 📚 Publish Research Paper | 🔴 In Progress | Medium |
 | 🤝 Mentor 100+ Students in AI | 🟡 Ongoing | High |
-| ☁️ Master MLOps & Model Deployment | 🟡 Learning | High |
+| ☁️ Master Automation | 🟡 Learning | High |
 | 🧠 Fine-tune Custom LLMs | 🟡 In Progress | High |
 | 🌍 Contribute to Open Source AI | 🟢 Active | Medium |
-| 💼 Land AI/ML Role at Top Company | 🟡 Preparing | High |
+| 💼 Land Software Developer Role at Top Company | 🟡 Preparing | High |
 
 </div>
 
@@ -396,9 +396,23 @@ mridul.say_hi()
 
 ```yaml
 professional_experience:
-  - role: "Web Development Intern"
-    company: "Perplexed.in"
+  - role: "Web Developer"
+    company: "mCurio (formerly Perplexed)"
     duration: "July 2023 - Sep 2023"
+    achievements:
+      - "Developed company website frontend"
+      - "Technologies: HTML, CSS, JavaScript"
+      - "Participated in weekly team meetings"
+
+professional_experience:
+  - role: "Software Developer"
+    company: "TechPints"
+    duration: "June 2024 - Aug 2024"
+
+professional_experience:
+  - role: "Software Developer"
+    company: "Vichon Ltd"
+    duration: "June 2025 - Feb 2026"
     achievements:
       - "Developed company website frontend"
       - "Technologies: HTML, CSS, JavaScript"
@@ -424,10 +438,10 @@ leadership_roles:
     event: "Hackathon 4.0, COER University"
 
 hackathon_journey:
-  total_participated: "12+"
-  wins: 4
+  total_participated: "22+"
+  wins: 12
   runner_ups: 1
-  special_mentions: 1
+  special_mentions: 6
 ```
 
 </div>
@@ -480,9 +494,8 @@ hackathon_journey:
 ```python
 facts = {
     "coffee_consumed": float('inf'),
-    "models_trained": "100+",
     "lines_of_code": "50,000+",
-    "hackathons_participated": "12+",
+    "hackathons_participated": "22+",
     "favorite_algorithm": "Transformers 🤖",
     "debug_strategy": "print() + Coffee ☕",
     "motto": "AI for Good, Code for Impact"
