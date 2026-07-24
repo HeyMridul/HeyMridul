@@ -142,40 +142,10 @@ mridul.say_hi()
 
 ---
 
-## 🏆 Trophy Cabinet
-
+🏆 Trophy Cabinet
 <div align="center">
-
-### 🎖️ Major Awards & Recognition
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge" /><br>
-<b>AIoThon 2025</b><br>
-<sub>IEEE Student Branch, DIT</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆-Winner-FF6B6B?style=for-the-badge" /><br>
-<b>AI in the OutBack</b><br>
-<sub>Global Hackathon Australia</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⭐-Best_of_Rest-8B5CF6?style=for-the-badge" /><br>
-<b>Climate AI Challenge</b><br>
-<sub>Climate Change Maker 2025</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🥈-2nd_Place-C0C0C0?style=for-the-badge" /><br>
-<b>Hackathon 8.0</b><br>
-<sub>COER University</sub>
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=heymridul&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
+🎖️ Major Awards & Recognition
+<table> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge" /><br> <b>AIoThon 2025</b><br> <sub>IEEE Student Branch, DIT University</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🏆-Winner-FF6B6B?style=for-the-badge" /><br> <b>AI in the OutBack</b><br> <sub>Global Hackathon, Australia (MLAI AUS & Hackeroos)</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/⭐-Best_of_Rest-8B5CF6?style=for-the-badge" /><br> <b>Climate AI Challenge</b><br> <sub>Climate Change Maker 2025</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🥈-2nd_Place-C0C0C0?style=for-the-badge" /><br> <b>Hackathon 8.0</b><br> <sub>COER University</sub> </td> </tr> <tr> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🥈-2nd_Place-C0C0C0?style=for-the-badge" /><br> <b>Hack KRMU</b><br> <sub>K.R. Mangalam University</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge" /><br> <b>Lakshagriha</b><br> <sub>Global Multidisciplinary Hackathon, Devbhoomi University</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🥇-1st_Place-FFD700?style=for-the-badge" /><br> <b>SRM Builds 7.0</b><br> <sub>National Hackathon, SRM University</sub> </td> <td align="center" width="25%"> <img src="https://img.shields.io/badge/🥉-3rd_Place-CD7F32?style=for-the-badge" /><br> <b>Code Crafter 3.0</b><br> <sub>School of Engineering & Technology, CT University</sub> </td> </tr> </table> <img src="https://github-profile-trophy.vercel.app/?username=heymridul&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" /> </div>
 
 ---
 
