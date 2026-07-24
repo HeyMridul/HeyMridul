@@ -341,7 +341,7 @@ mridul.say_hi()
 
 ---
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
 <div align="center">
 
